@@ -1,4 +1,4 @@
-# nav-brief
+# naviator-api
 A simple REST API built using Flask providing up to date weather data on Canadian airports. 
 
 This API is hosted on Heroku at the following endpoint:
